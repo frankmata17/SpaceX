@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+
+body {
+    background-image: url("https://www.spacex.com/static/images/crew-2/splashdown/Crew-1_Crew_Desktop.webp");
+    background-image: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    display: inline-block;
+}
+
+ul {
+    display: inline-block;
+    text-align: center;
+}
